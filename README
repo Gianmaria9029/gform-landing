@@ -5,7 +5,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)
 
-Landing page standalone per [GForm.it](https://gform.it) — piattaforma di formazione digitale su AI, Microsoft 365, HTML/CSS/JS ed E-commerce.
+Landing page standalone per [GForm.it](https://gform.it) - piattaforma di formazione digitale su AI, Microsoft 365, HTML/CSS/JS ed E-commerce.
 
 🌐 **Live:** [gianmaria9029.github.io/gform-landing](https://gianmaria9029.github.io/gform-landing/)
 
@@ -22,7 +22,7 @@ GForm.it è una piattaforma formativa con corsi pratici su intelligenza artifici
 | Layer | Scelta |
 |-------|--------|
 | Markup | HTML5 semantico |
-| Stile | CSS3 — variabili, grid, animazioni, IntersectionObserver |
+| Stile | CSS3 - variabili, grid, animazioni, IntersectionObserver |
 | Logica | JavaScript vanilla |
 | Font | Clash Display · Cabinet Grotesk (Google Fonts) |
 | Deploy | GitHub Pages |
@@ -72,4 +72,4 @@ open index.html
 
 ## Licenza
 
-MIT — [Gianmaria Gori](https://github.com/Gianmaria9029)
+MIT - [Gianmaria Gori](https://github.com/Gianmaria9029)
