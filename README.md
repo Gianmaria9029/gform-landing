@@ -1,4 +1,4 @@
-# GForm — Landing Page
+# GForm - Landing Page
 
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white)
@@ -13,7 +13,7 @@ Landing page standalone per [GForm.it](https://gform.it) - piattaforma di formaz
 
 ## Il progetto
 
-GForm.it è una piattaforma formativa con corsi pratici su intelligenza artificiale, strumenti digitali e produttività. Questa landing page è costruita in HTML/CSS/JS puro — nessun framework, nessuna dipendenza — per massima leggerezza e controllo sul codice.
+GForm.it è una piattaforma formativa con corsi pratici su intelligenza artificiale, strumenti digitali e produttività. Questa landing page è costruita in HTML/CSS/JS puro - nessun framework, nessuna dipendenza - per massima leggerezza e controllo sul codice.
 
 ---
 
